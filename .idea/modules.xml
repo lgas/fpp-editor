@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/assembly/assembly-ide-war/assembly-ide-war.iml" filepath="$PROJECT_DIR$/assembly/assembly-ide-war/assembly-ide-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assembly/assembly-main/assembly-main.iml" filepath="$PROJECT_DIR$/assembly/assembly-main/assembly-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assembly/assembly-wsagent-server/assembly-wsagent-server.iml" filepath="$PROJECT_DIR$/assembly/assembly-wsagent-server/assembly-wsagent-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assembly/assembly-wsagent-war/assembly-wsagent-war.iml" filepath="$PROJECT_DIR$/assembly/assembly-wsagent-war/assembly-wsagent-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assembly/assembly-wsmaster-war/assembly-wsmaster-war.iml" filepath="$PROJECT_DIR$/assembly/assembly-wsmaster-war/assembly-wsmaster-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assembly/che-assembly-parent.iml" filepath="$PROJECT_DIR$/assembly/che-assembly-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/che-parent.iml" filepath="$PROJECT_DIR$/che-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-fpp-editor-ide/che-plugin-groovy-ide.iml" filepath="$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-fpp-editor-ide/che-plugin-groovy-ide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-groovy-parent.iml" filepath="$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-groovy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-fpp-editor-server/che-plugin-groovy-server.iml" filepath="$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-fpp-editor-server/che-plugin-groovy-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-fpp-editor-shared/che-plugin-groovy-shared.iml" filepath="$PROJECT_DIR$/plugins/che-plugin-fpp-editor/che-plugin-fpp-editor-shared/che-plugin-groovy-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/fpp-plugin-parent.iml" filepath="$PROJECT_DIR$/plugins/fpp-plugin-parent.iml" />
+    </modules>
+  </component>
+</project>

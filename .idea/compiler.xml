@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="assembly-ide-war" />
+        <module name="assembly-wsagent-war" />
+        <module name="assembly-wsmaster-war" />
+        <module name="che-plugin-groovy-ide" />
+        <module name="che-plugin-groovy-server" />
+        <module name="che-plugin-groovy-shared" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="assembly-ide-war" target="1.7" />
+      <module name="assembly-main" target="1.8" />
+      <module name="assembly-wsagent-server" target="1.8" />
+      <module name="assembly-wsagent-war" target="1.8" />
+      <module name="assembly-wsmaster-war" target="1.8" />
+      <module name="che-assembly-parent" target="1.8" />
+      <module name="che-parent" target="1.8" />
+      <module name="che-plugin-groovy-ide" target="1.8" />
+      <module name="che-plugin-groovy-parent" target="1.8" />
+      <module name="che-plugin-groovy-server" target="1.8" />
+      <module name="che-plugin-groovy-shared" target="1.8" />
+      <module name="fpp-plugin-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
